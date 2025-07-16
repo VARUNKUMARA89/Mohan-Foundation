@@ -1,8 +1,13 @@
 [
     {
       "hospital_name": "VisionCare Medical Center",
-      "hospital_address": "123 Elm Street, Anytown, USA",
-      "phone_number": "+1 (555) 123-4567",
+      "address": "123 Elm Street, Anytown, USA",
+      "phone": "+1 (555) 123-4567",
+      "state": "tamil nadu",
+      "city": "Chennai",
+      "email": "a@a.com",
+      "website": "a.com",
+      "pincode": "600100",
       "rating": 4.5
     },
     {
